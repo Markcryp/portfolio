@@ -1,0 +1,40 @@
+*{
+    background-color: aquamarine;
+}
+
+header h1{
+    text-align: center;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: brown;
+    padding: 10px;
+    border-left: 5px solid black;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: large;
+}
+
+img{
+    width: 30%;
+    border-radius: 10%;
+}
+    
+
